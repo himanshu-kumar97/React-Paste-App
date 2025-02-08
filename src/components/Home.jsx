@@ -127,7 +127,7 @@ const Home = () => {
               placeholder="Write Your Content Here...."
               className="w-full p-3  focus-visible:ring-0"
               style={{
-                caretColor: "#000",
+                caretColor: "#fff",
               }}
               rows={20}
             />
